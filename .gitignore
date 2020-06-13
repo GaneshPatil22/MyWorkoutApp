@@ -1,0 +1,8 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+Pods/
+*.xcworkspace/
+Podfile.lock
